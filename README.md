@@ -30,9 +30,13 @@
 <summary>:zap: Recent GitHub Activity</summary>  
 <!--START_SECTION:activity-->
 1. ⚡ Public Repository (https://github.com/simondoku/Computer-Science) in [simondoku/ComputerScience](https://github.com/simondoku)
+  
 2. ⚡ Public Repository (https://github.com/amazon-hackathon/Amazon-Hackathon) in [simondoku/Amazon-Hackathon](https://github.com/amazon-hackathon/Amazon-Hackathon)
+  
 3. ⚡ Public Repository (https://github.com/simondoku/learning-git) in [simondoku/learningGit](https://github.com/simondoku)
+  
 4. ⚡ Public Repository (https://github.com/simondoku/Savings-Tracker) in [simondoku/Savings-Tracker](https://github.com/simondoku/Savings-Tracker)
+  
 5. ⚡ Public Repository (https://github.com/simondoku/codepath-IOS) in [simondoku/codepath-IOS](https://github.com/simondoku/codepath-IOS)
 <!--END_SECTION:activity-->
 
