@@ -24,7 +24,7 @@
 <br />
 <br />
 
-<details>
+
 <summary> Recent GitHub Activity</summary>  
 <!--START_SECTION:activity-->
   
@@ -39,7 +39,7 @@
 5. ⚡ Public Repository (https://github.com/simondoku/codepath-IOS) in [simondoku/codepath-IOS](https://github.com/simondoku/codepath-IOS)
 <!--END_SECTION:activity-->
 
-</details>
+
 
 
 [instagram]: https://instagram.com/simon_.doku
