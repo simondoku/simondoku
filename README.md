@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[![linkedin]((https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg))](https://linkedin.com/in/simon-doku-b18873119)
+[![linkedin](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://linkedin.com/in/simon-doku-b18873119)
 &nbsp;&nbsp;
 [![instagram](./img/instagram-dark.svg)](https://instagram.com/simon_.doku#gh-dark-mode-only)
 
