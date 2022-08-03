@@ -11,11 +11,8 @@
 
 ### Connect with me:
 
-
-[![linkedin]()](https://linkedin.com/in/simon-doku-b18873119)
-[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/simon-doku-b18873119)
+[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![instagram](./img/instagram-light.svg)](https://instagram.com/simon_.doku#gh-light-mode-only)
 [![instagram](./img/instagram-dark.svg)](https://instagram.com/simon_.doku#gh-dark-mode-only)
 
 ### Languages and Tools:
