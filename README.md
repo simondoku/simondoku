@@ -23,8 +23,7 @@
 [<img align="left" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />]
 
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+<summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 1. ⚡ Public Repository (https://github.com/simondoku/Computer-Science) in [simondoku/ComputerScience](https://github.com/simondoku)
@@ -33,8 +32,6 @@
 4. ⚡ Public Repository (https://github.com/simondoku/Savings-Tracker) in [simondoku/Savings-Tracker](https://github.com/simondoku/Savings-Tracker)
 5. ⚡ Public Repository (https://github.com/simondoku/codepath-IOS) in [simondoku/codepath-IOS](https://github.com/simondoku/codepath-IOS)
 <!--END_SECTION:activity-->
-
-</details>
 
 
 
