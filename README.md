@@ -11,9 +11,9 @@
 
 ### Connect with me:
 
-[![linkedin](<img align="left" alt="Instagram" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />)](https://linkedin.com/in/simon-doku-b18873119)
+[![linkedin]<img align="left" alt="Instagram" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://linkedin.com/in/simon-doku-b18873119)
 &nbsp;&nbsp;
-[![instagram][<img align="left" alt="Instagram" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" style="padding-right:10px;" />]](https://instagram.com/simon_.doku#gh-dark-mode-only)
+[![instagram]<img align="left" alt="Instagram" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" style="padding-right:10px;" />](https://instagram.com/simon_.doku#gh-dark-mode-only)
 
 ### Languages and Tools:
 
