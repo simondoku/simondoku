@@ -20,11 +20,11 @@
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />]()
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />]()
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />]()
-[<img align="left" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />]()
+[<img align="left" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />](https://github.com/simondoku/simondoku)
 
 
 
-<summary>:zap: Recent GitHub Activity</summary>  
+<summary> Recent GitHub Activity</summary>  
 <!--START_SECTION:activity-->
 1. ⚡ Public Repository (https://github.com/simondoku/Computer-Science) in [simondoku/ComputerScience](https://github.com/simondoku)
 2. ⚡ Public Repository (https://github.com/amazon-hackathon/Amazon-Hackathon) in [simondoku/Amazon-Hackathon](https://github.com/amazon-hackathon/Amazon-Hackathon)
