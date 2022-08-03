@@ -27,7 +27,7 @@
 <br />
 
 <details>
-<summary> Recent GitHub Activity</summary>  
+<summary>:zap: Recent GitHub Activity</summary>  
 <!--START_SECTION:activity-->
 1. ⚡ Public Repository (https://github.com/simondoku/Computer-Science) in [simondoku/ComputerScience](https://github.com/simondoku)
 2. ⚡ Public Repository (https://github.com/amazon-hackathon/Amazon-Hackathon) in [simondoku/Amazon-Hackathon](https://github.com/amazon-hackathon/Amazon-Hackathon)
