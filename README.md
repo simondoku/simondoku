@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[![linkedin]((https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg))](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![linkedin]((https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg))](https://linkedin.com/in/[codeSTACKr](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg)#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![instagram](./img/instagram-dark.svg)](https://instagram.com/simon_.doku#gh-dark-mode-only)
 
