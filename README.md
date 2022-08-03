@@ -9,9 +9,7 @@
 - 🥅 2022 Goals: Create more projects and collaborate in open source
 - 🧑‍🍳 📷 Fun fact: I love cooking and photography
 
-📞 Connect with me:
-
-[<img align="center" alt="linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://linkedin.com/in/simon-doku-b18873119)
+📞 Connect with me: [<img align="center" alt="linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://linkedin.com/in/simon-doku-b18873119)
 
 🧰 Languages and Tools:
 
