@@ -12,11 +12,11 @@
 ### Connect with me:
 
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/simon-doku-b18873119#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/simon-doku-b18873119#gh-dark-mode-only)
+[linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/simon-doku-b18873119#gh-light-mode-only)
+[linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/simon-doku-b18873119#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/simon_.doku#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/simon_.doku#gh-dark-mode-only)
+[instgram](./img/instagram-light.svg)](https://instagram.com/simon_.doku#gh-light-mode-only)
+[instagram](./img/instagram-dark.svg)](https://instagram.com/simon_.doku#gh-dark-mode-only)
 
 ### Languages and Tools:
 
