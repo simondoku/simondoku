@@ -51,7 +51,6 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=simondoku&theme=dracula)  
 <h2>🏆My Github Profile Trophy</h2>
 <img width=1000 src="https://github-profile-trophy.vercel.app/?username=simondoku&column=7&theme=gruvbox&no-frame=true"/>
-![GitHub metrics](https://metrics.lecoq.io/simondoku)
 
 
 [instagram]: https://instagram.com/simon_.doku
@@ -61,4 +60,6 @@
 [simondoku/learningGit]:https://github.com/simondoku/learning-git
 [simondoku/Savings-Tracker]:https://github.com/simondoku/Savings-Tracker
 [simondoku/codepath-IOS]:https://github.com/simondoku/codepath-IOS
+
+![GitHub metrics](https://metrics.lecoq.io/simondoku)
 
