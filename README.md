@@ -4,8 +4,8 @@
 
 ## I am a Computer Science major and Data analytics minor at Stetson University, I'm also a ColorStack and CODEPATH Fellow !!
 
-- 🌱 I’m currently learning everything 🤣
-- 💻 I'm looking to build a very strong foundation in programming and also collaborate in open source
+- 🌱 I’m currently learning Data Structures and Algorithms
+- 💻 I'm looking to build a very strong foundation in Data Structures and also collaborate in open source
 - 🥅 2022 Goals: Create more projects and collaborate in open source
 - 🧑‍🍳 📷 Fun fact: I love cooking and photography
 
@@ -44,8 +44,8 @@
 [![Simon Doku's stats](https://github-readme-stats.vercel.app/api?username=simondoku&show_icons=true&theme=github_light)](https://github.com/simondoku)
 
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=simondoku&theme=dracula&hide_border=true)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simondoku&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=simondoku&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simondoku&theme=github_light)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=simondoku&theme=github_light)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=simondoku&theme=github_dark)
 
 
