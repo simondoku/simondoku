@@ -48,11 +48,11 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=simondoku&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=simondoku&theme=github_dark)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=simondoku&theme=light)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=simondoku&theme=dracula)  
 <h2>🏆My Github Profile Trophy</h2>
 <img width=1000 src="https://github-profile-trophy.vercel.app/?username=simondoku&column=7&theme=gruvbox&no-frame=true"/>
-
 ![GitHub metrics](https://metrics.lecoq.io/simondoku)
+
 
 [instagram]: https://instagram.com/simon_.doku
 [linkedin]: https://linkedin.com/in/simon-doku-b18873119
