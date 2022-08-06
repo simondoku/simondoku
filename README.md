@@ -54,6 +54,5 @@
 
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=simondoku&theme=dracula&hide_border=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simondoku&theme=github_light)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=simondoku&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=simondoku&theme=github_dark)
-[![Simon Doku's stats](https://github-readme-stats.vercel.app/api?username=simondoku&show_icons=true&theme=github_dark)](https://github.com/qbentil)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=simondoku&theme=github_light)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=simondoku&theme=github_light)
