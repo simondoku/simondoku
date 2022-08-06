@@ -32,7 +32,7 @@
 <summary> Recent GitHub Activity</summary>  
 <!--START_SECTION:activity-->
   
-1. ⚡ Public Repository (https://github.com/simondoku/Computer-Science) in [simondoku/ComputerScience](https://github.com/simondoku)
+1. ⚡ Public Repository (https://github.com/simondoku/Computer-Science)
   
 2. ⚡ Public Repository (https://github.com/amazon-hackathon/Amazon-Hackathon) in [simondoku/Amazon-Hackathon](https://github.com/amazon-hackathon/Amazon-Hackathon)
   
