@@ -34,16 +34,16 @@
   
 1. ⚡ Public Repository (https://github.com/simondoku/Computer-Science)
   
-2. ⚡ Public Repository (https://github.com/amazon-hackathon/Amazon-Hackathon) in [simondoku/Amazon-Hackathon](https://github.com/amazon-hackathon/Amazon-Hackathon)
+2. ⚡ Public Repository (https://github.com/amazon-hackathon/Amazon-Hackathon)
   
-3. ⚡ Public Repository (https://github.com/simondoku/learning-git) in [simondoku/learningGit](https://github.com/simondoku)
+3. ⚡ Public Repository (https://github.com/simondoku/learning-git) 
   
-4. ⚡ Public Repository (https://github.com/simondoku/Savings-Tracker) in [simondoku/Savings-Tracker](https://github.com/simondoku/Savings-Tracker)
+4. ⚡ Public Repository (https://github.com/simondoku/Savings-Tracker) 
   
-5. ⚡ Public Repository (https://github.com/simondoku/codepath-IOS) in [simondoku/codepath-IOS](https://github.com/simondoku/codepath-IOS)
+5. ⚡ Public Repository (https://github.com/simondoku/codepath-IOS) 
 <!--END_SECTION:activity-->
 
-[![Simon Doku's stats](https://github-readme-stats.vercel.app/api?username=simondoku&show_icons=true&theme=github_dark)](https://github.com/simondoku)
+[![Simon Doku's stats](https://github-readme-stats.vercel.app/api?username=simondoku&show_icons=true&theme=github_light)](https://github.com/simondoku)
 
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=simondoku&theme=dracula&hide_border=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simondoku&theme=github_dark)
