@@ -18,13 +18,15 @@
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />]()
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />]()
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />]()
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />](theme=github_dark)
+[<img align="left" width="26px" src="<i class="devicon-flask-original"></i>" />]()
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />]()
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"&theme=github_dark />]()
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />]()
 
 
 <br />
 <br />
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg
+
 
 
 <summary> Recent GitHub Activity</summary>  
