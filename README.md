@@ -18,9 +18,9 @@
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />]()
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />]()
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />]()
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />]()
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />](theme=github_dark)
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />]()
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />]()
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"&theme=github_dark />]()
 
 
 <br />
@@ -41,7 +41,7 @@
 5. ⚡ Public Repository (https://github.com/simondoku/codepath-IOS) in [simondoku/codepath-IOS](https://github.com/simondoku/codepath-IOS)
 <!--END_SECTION:activity-->
 
-[![Simon Doku's stats](https://github-readme-stats.vercel.app/api?username=simondoku&show_icons=true&theme=github_light)](https://github.com/simondoku)
+[![Simon Doku's stats](https://github-readme-stats.vercel.app/api?username=simondoku&show_icons=true&theme=github_dark)](https://github.com/simondoku)
 
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=simondoku&theme=dracula&hide_border=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simondoku&theme=github_dark)
