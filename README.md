@@ -42,6 +42,7 @@
 <!--END_SECTION:activity-->
 
 [![Simon Doku's stats](https://github-readme-stats.vercel.app/api?username=simondoku&show_icons=true&theme=github_light)](https://github.com/simondoku)
+
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=simondoku&theme=dracula&hide_border=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simondoku&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=simondoku&theme=github_dark)
