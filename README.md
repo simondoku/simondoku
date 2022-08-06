@@ -41,7 +41,11 @@
 5. ⚡ Public Repository (https://github.com/simondoku/codepath-IOS) in [simondoku/codepath-IOS](https://github.com/simondoku/codepath-IOS)
 <!--END_SECTION:activity-->
 
- <img align="left" alt="Simon's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=simondoku&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+[![Simon Doku's stats](https://github-readme-stats.vercel.app/api?username=simondoku&show_icons=true&theme=github_light)](https://github.com/simondoku)
+![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=simondoku&theme=dracula&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simondoku&theme=github_light)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=simondoku&theme=github_light)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=simondoku&theme=github_light)
 
 
 [instagram]: https://instagram.com/simon_.doku
@@ -52,8 +56,3 @@
 [simondoku/Savings-Tracker]:https://github.com/simondoku/Savings-Tracker
 [simondoku/codepath-IOS]:https://github.com/simondoku/codepath-IOS
 
-![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=simondoku&theme=dracula&hide_border=true)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simondoku&theme=github_light)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=simondoku&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=simondoku&theme=github_dark)
-[![Simon Doku's stats](https://github-readme-stats.vercel.app/api?username=simondoku&show_icons=true&theme=github_dark)](https://github.com/qbentil)
