@@ -4,9 +4,9 @@
 
 ## I am a Computer Science major and Data analytics minor at Stetson University, I'm also a ColorStack and CODEPATH Fellow !!
 
-- 🌱 I’m currently learning Data Structures and Algorithms
-- 💻 I'm looking to build a very strong foundation in Data Structures and also collaborate in open source
-- 🥅 2022 Goals: Create more projects and collaborate in open source
+- 🌱 I’m building fun AI projects
+- 💻 I'm looking to collaborate in open source
+- 🥅 2024 Goals: Create more projects and collaborate in open source
 - 🧑‍🍳 📷 Fun fact: I love cooking and photography
 
 📞 Connect with me:
@@ -26,23 +26,6 @@
 <br />
 <br />
 
-
-
-
-<summary> Recent GitHub Activity</summary>  
-<!--START_SECTION:activity-->
-  
-1. ⚡ Public Repository (https://github.com/simondoku/Computer-Science)
-  
-2. ⚡ Public Repository (https://github.com/amazon-hackathon/Amazon-Hackathon)
-  
-3. ⚡ Public Repository (https://github.com/simondoku/learning-git) 
-  
-4. ⚡ Public Repository (https://github.com/simondoku/Savings-Tracker) 
-  
-5. ⚡ Public Repository (https://github.com/simondoku/codepath-IOS) 
-<!--END_SECTION:activity-->
-
 [![Simon Doku's stats](https://github-readme-stats.vercel.app/api?username=simondoku&show_icons=true&theme=github_light)](https://github.com/simondoku)
 
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=simondoku&theme=dracula&hide_border=true)
@@ -57,11 +40,6 @@
 
 [instagram]: https://instagram.com/simon_.doku
 [linkedin]: https://linkedin.com/in/simon-doku-b18873119
-[simondoku/ComputerScience]:https://github.com/simondoku/Computer-Science
-[simondoku/Amazon-Hackathon]:https://github.com/amazon-hackathon/Amazon-Hackathon
-[simondoku/learningGit]:https://github.com/simondoku/learning-git
-[simondoku/Savings-Tracker]:https://github.com/simondoku/Savings-Tracker
-[simondoku/codepath-IOS]:https://github.com/simondoku/codepath-IOS
 
 ![GitHub metrics](https://metrics.lecoq.io/simondoku)
 
